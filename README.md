@@ -8,7 +8,7 @@ Just follow the following list:
 
 1. Look through all the markdown files in this repository. Each file contains info on a different project group.
 2. Once you've found a project group which strikes your fancy, take note of the project group leader's Slack contact info.
-3. [https://deepseattle.herokuapp.com](Join us on Slack)!
+3. [Join us on Slack](https://deepseattle.herokuapp.com)!
 4. Contact the project leader (via PM or in the team's Slack channel) and tell them you're interested in joining their group! They should be able to provide more information and help you contribute to the project.
 
 ## How to start a project group
