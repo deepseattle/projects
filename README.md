@@ -19,7 +19,7 @@ Just follow the following list:
   * [CNN Learning via Stanford CS231N course](cs231n_fall2017.md)
   * NLP Joke Project
   * CDiscount Kaggle Competition
-  * Running Deep Learning Models on Raspberry Pi
+  * [Deep learning on shallow hardware](DeepLearningOnShallowHardware.md)
 
 ### Past Projects
 
