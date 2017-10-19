@@ -1,6 +1,6 @@
 # Deep Learning on Shallow Hardware
 
-# Project Name 
+## Project Name 
 
 Deep Learning on Shallow Hardware       
 
