@@ -1,10 +1,20 @@
 # Deep Learning on Shallow Hardware
 
+### Project name                  
 
-| Project name                  | Deep Learning on Shallow Hardware       
-| Project leader                | Adnan Siddiqui
-| Project leader Slack username | @siddiqaa    
-| Project slack channel         | NA (we just use email)           
+Deep Learning on Shallow Hardware       
+
+### Project leader
+
+Adnan Siddiqui
+
+### Project leader Slack username
+
+@siddiqaa    
+
+### Project slack channel
+
+NA (we just use email)           
 
 ## Description
 
