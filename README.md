@@ -2,14 +2,28 @@
 
 This repository contains all info about the current (and past) Seattle Deep Learning Meetup projects.
 
+
 ## How to join a project group
 
 Just follow the following list:
 
-1. Look through all the markdown files in this repository. Each file contains info on a different project group.
+1. Look at the list of Active Projects below.
 2. Once you've found a project group which strikes your fancy, take note of the project group leader's Slack contact info.
 3. [Join us on Slack](https://deepseattle.herokuapp.com)!
 4. Contact the project leader (via PM or in the team's Slack channel) and tell them you're interested in joining their group! They should be able to provide more information and help you contribute to the project.
+
+## Projects
+
+### Active Projects
+
+  * [CNN Learning via Stanford CS231N course](cs231n_fall2017.md)
+  * NLP Joke Project
+  * CDiscount Kaggle Competition
+  * Running Deep Learning Models on Raspberry Pi
+
+### Past Projects
+
+
 
 ## How to start a project group
 
