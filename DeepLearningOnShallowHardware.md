@@ -10,7 +10,7 @@ Adnan Siddiqui
 
 ## Project Leader Slack Username
 
-@siddiqaa    
+@adnans   
 
 ## Project Slack Channel 
 
