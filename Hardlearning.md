@@ -1,10 +1,10 @@
 Hard-Learning
 
-#Project Name
+# Project Name
 
-##Using machine learning to create hardware
+## Using machine learning to create hardware
 
-#Project Leader
+# Project Leader
 
 Jaime Espinosa
 
@@ -12,12 +12,12 @@ Project Leader Slack Username
 
 @jaime
 
-#Project Slack Channel
+# Project Slack Channel
 
 None (we just use email)
 jaime.e.espinosa @ g__
 
-#Description
+# Description
 
 **Can machine learning be used to develop circtuits that accelerate machine learning computation?**
 
@@ -27,7 +27,7 @@ often other accelerators built in, for example DSP blocks (digital signal proces
 In FPGA's circuits are represented by 'code' that is fed to the FPGA to configure it. So this project begins to look like 
 "genetic programming".  
 
-#Dataset
+# Dataset
 
 *Fitness function: speed-up (dt) 
 *Learning data: test set for the circuit, and expected output (set can be generated with CPU)
@@ -36,17 +36,17 @@ In FPGA's circuits are represented by 'code' that is fed to the FPGA to configur
 Matrix multiplication, for example to accelerate a simple NN that runs on CPU (like a math co-processor)
 *Reach goal: develop a simple NN on chip. (pick a canonical example so we can compare with white papers)
 
-#Hardware
+# Hardware
 
 Instance of an AWS EC2 F1.  It's an FPGA mounted on a linx box.  The tools and setup are preloaded and preconfigured. 
 
-#Possible details to overcome
+# Possible details to overcome
 
 *The FPGA programming time is too long. Possible solution is to test multiple circuits at once by partitioning the array.
 *Test set may not be complete. For simplicity we can generate tests randomly, create the answers on CPU
 *This approach might give results that look overfitted -- which might be ok for this purpose. 
 
-#Group meetup schedule
+# Group meetup schedule
 
 TBD 
 
