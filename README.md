@@ -20,6 +20,7 @@ Just follow the following list:
   * NLP Joke Project
   * CDiscount Kaggle Competition
   * [Deep learning on shallow hardware](DeepLearningOnShallowHardware.md)
+  * [Optimizing FGPAs for deep learning](Hardlearning.md)
 
 ### Past Projects
 
