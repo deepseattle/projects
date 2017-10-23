@@ -1,7 +1,8 @@
-Hard-Learning
+
 
 # Project Name
 
+## Hard-Learning:
 ## Using machine learning to create hardware
 
 # Project Leader
