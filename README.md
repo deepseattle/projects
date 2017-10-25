@@ -17,7 +17,7 @@ Just follow the following list:
 ### Active Projects
 
   * [CNN Learning via Stanford CS231N course](cs231n_fall2017.md)
-  * NLP Joke Project
+  * [NLP Joke Project](NLPJokeProject.md)
   * CDiscount Kaggle Competition
   * [Deep learning on shallow hardware](DeepLearningOnShallowHardware.md)
   * [Optimizing FGPAs for deep learning](Hardlearning.md)
