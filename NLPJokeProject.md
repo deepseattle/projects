@@ -15,9 +15,13 @@ Information about the data can be found here: https://github.com/taivop/joke-dat
 All meeting topics are tenative based on progress.
 
 Oct. 29th - EDA discussion. 
+
 Nov. 5th - Begin dividing into groups to build predictor and topicRNN
+
 Nov. 12th - Discuss results. Continue tuning.
+
 Nov. 19th - Continue tuning. 
+
 Dec. 3 - Discuss results. Start building dataset for AI.
 
 Future meetings and topics TBD.
