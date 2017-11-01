@@ -2,7 +2,7 @@
 
 ## Project Name 
 
-Deep Learning on Shallow Hardware       
+Deep Learning on Shallow Hardware
 
 ## Project Leader
 
@@ -14,7 +14,11 @@ Adnan Siddiqui
 
 ## Project Slack Channel 
 
-None (we just use email)           
+None (we just use email)
+
+## Github repo
+
+https://github.com/deepseattle/shallow.hardware.projects
 
 ## Description
 
