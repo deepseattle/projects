@@ -20,7 +20,17 @@ Just follow the following list:
   * [NLP Joke Project](NLPJokeProject.md)
   * [Deep learning on shallow hardware](DeepLearningOnShallowHardware.md)
   * [Optimizing FGPAs for deep learning](Hardlearning.md)
+  
+### In The Works!
+The following projects are being considered or organized by members of our meetup group. Look for them at the next Meetup!
 
+  * Photo Captions: Build a network to produce captions for photos
+      * Slack channel to discuss -- #photocap
+  * [Stanford cs224n: Natural Language Processing with Deep Learning Study Group](http://web.stanford.edu/class/cs224n/)
+      * Slack channel to discuss -- #cs224n_nlp_with_dl
+  * [UC Berkeley cs294: Deep Reinforcement Learning Study Group](http://rll.berkeley.edu/deeprlcourse/)
+      * Slack channel to discus s-- #cs294_reinforcement
+  
 ### Past Projects
 
 
