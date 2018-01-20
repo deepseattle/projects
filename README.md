@@ -19,7 +19,7 @@ Just follow the following list:
   * [CNN Learning via Stanford CS231N course](cs231n_fall2017.md)
   * [NLP Joke Project](NLPJokeProject.md)
   * [Deep learning on shallow hardware](DeepLearningOnShallowHardware.md)
-  * [Optimizing FGPAs for deep learning](Hardlearning.md)
+  * [A self-driving model car](self_driving_rc_car.md)
   
 ### In The Works!
 The following projects are being considered or organized by members of our meetup group. Look for them at the next Meetup!
