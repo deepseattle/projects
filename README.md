@@ -20,6 +20,8 @@ Just follow the following list:
   * [NLP Joke Project](NLPJokeProject.md)
   * [Deep learning on shallow hardware](DeepLearningOnShallowHardware.md)
   * [A self-driving model car](self_driving_rc_car.md)
+  * [Berkeley CS294: Deep Reinforcement Learning - Study Group](CS_294_fall17.md)
+  
   
 ### In The Works!
 The following projects are being considered or organized by members of our meetup group. Look for them at the next Meetup!
