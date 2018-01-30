@@ -28,10 +28,6 @@ The following projects are being considered or organized by members of our meetu
 
   * Photo Captions: Build a network to produce captions for photos
       * Slack channel #photocap
-  * [Stanford cs224n: Natural Language Processing with Deep Learning Study Group](http://web.stanford.edu/class/cs224n/)
-      * Slack channel #cs224n_nlp_with_dl
-  * [UC Berkeley cs294: Deep Reinforcement Learning Study Group](http://rll.berkeley.edu/deeprlcourse/)
-      * Slack channel #cs294_reinforcement
   
 ### Past Projects
 
